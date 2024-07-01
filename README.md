@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 [![Abhishek-Soren's Stats](https://github-readme-stats.vercel.app/api?username=Abhishek-Soren)](https://github.com/Abhishek-Soren/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abhishek-Soren&show_icons=true&theme=tokyonight)
 
 ![Abhishek-Soren's Stats](https://github-readme-stats.vercel.app/api?username=Abhishek-Soren&theme=blueberry&show_icons=true&hide_border=true&count_private=true)
 
