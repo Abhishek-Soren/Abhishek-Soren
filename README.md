@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[![Abhishek-Soren's Stats](https://github-readme-stats.vercel.app/api?username=Abhishek-Soren)](https://github.com/Abhishek-Soren/github-readme-stats)
+
 ![Abhishek-Soren's Stats](https://github-readme-stats.vercel.app/api?username=Abhishek-Soren&theme=blueberry&show_icons=true&hide_border=true&count_private=true)
 
 ![Abhishek-Soren's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Abhishek-Soren&theme=blueberry&hide_border=true)
