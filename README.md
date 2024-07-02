@@ -64,7 +64,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Abhishek-Soren's Stats](https://github-readme-stats.vercel.app/api?username=Abhishek-Soren)](https://github.com/Abhishek-Soren/github-readme-stats)
+![Abhishek Soren's github stats](https://github-readme-stats.vercel.app/api?username=abhishek-soren)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek-Soren&layout=donut-vertical)](https://github.com/Abhishek-Soren/github-readme-stats)
