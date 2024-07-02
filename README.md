@@ -66,9 +66,8 @@ Here are some ideas to get you started:
 
 ![Abhishek Soren's github stats](https://github-readme-stats.vercel.app/api?username=abhishek-soren)
 
-![Abhishek Soren's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhishek-soren&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek-Soren&layout=donut-vertical)](https://github.com/Abhishek-Soren/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek-Soren&layout=donut-vertical)
 
 
 ![Abhishek-Soren's Stats](https://github-readme-stats.vercel.app/api?username=Abhishek-Soren&theme=blueberry&show_icons=true&hide_border=true&count_private=true)
