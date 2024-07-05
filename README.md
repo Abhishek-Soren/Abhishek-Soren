@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm Abhishek Soren</h1>
 <h3 align="center">A passionate frontend developer from India.</h3>
-<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://private-user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjAxODQ1MjUsIm5iZiI6MTcyMDE4NDIyNSwicGF0aCI6Ii83NDAzODE5MC8yMzgzNTM0ODAtMjE5YmNjNzAtZjVkYy00NjZiLTlhNjAtMjk2NTNkOGU4NDMzLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA3MDUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNzA1VDEyNTcwNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTMyN2VkZjIwMDUyMGJmNmI0MWI3MzBkMTMyNmY3YzcyYmQ3MjQ3Y2JjNDQ0MDQ0YTNlYWMzZDBhMzIzZjJjMTEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.2MJcNLRCQotehLch_whXTJ4ZwmYl0my4Zvw33wnGahw)">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif">
 
 - 📫 How to reach me **abhisheksoren100@gmail.com**
 
