@@ -75,3 +75,8 @@ Here are some ideas to get you started:
 ![Abhishek-Soren's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Abhishek-Soren&theme=blueberry&hide_border=true)
 
 ![abhishek-soren's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek-soren&theme=blueberry&show_icons=true&hide_border=true&layout=compact)
+
+
+### :zap: Recent Activity
+
+<!--START_SECTION:activity-->
